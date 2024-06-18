@@ -1,0 +1,8 @@
+﻿  TP Deque.cpp
+C:\Users\Yanis\source\repos\TP Deque\TP Deque\TP Deque.cpp(24,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Yanis\source\repos\TP Deque\TP Deque\TP Deque.cpp(25,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Yanis\source\repos\TP Deque\TP Deque\TP Deque.cpp(38,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Yanis\source\repos\TP Deque\TP Deque\TP Deque.cpp(46,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Yanis\source\repos\TP Deque\TP Deque\TP Deque.cpp(53,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\Yanis\source\repos\TP Deque\TP Deque\TP Deque.cpp(64,15): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+  TP Deque.vcxproj -> C:\Users\Yanis\source\repos\TP Deque\x64\Debug\TP Deque.exe
